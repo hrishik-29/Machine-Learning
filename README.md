@@ -1,5 +1,4 @@
-# ElevateLabs_Task4_LogisticRegression
-# Task 4: Classification with Logistic Regression - AI & ML Internship
+# Classification with Logistic Regression
 
 ## Objective
 The objective of this task was to build a binary classifier using Logistic Regression. This involved hands-on experience with data preprocessing, model training, evaluation using specific classification metrics, and understanding key concepts like the sigmoid function.
