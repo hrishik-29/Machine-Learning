@@ -1,6 +1,3 @@
-# ElevateLabs_Task8_K-Means_Clustering
-# AI & ML INTERNSHIP - Task 8: Clustering with K-Means
-
 ## Overview
 
 This repository contains the solution for Task 8 of the AI & ML Internship, focusing on unsupervised learning using K-Means clustering. The objective was to apply K-Means to a dataset, determine the optimal number of clusters, visualize the results, and evaluate the clustering performance.
